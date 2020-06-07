@@ -1,5 +1,4 @@
-#include<unity.h>
-#include<Arduino.h>
+#include <unity.h>
 #include <SOMA.h>
 
 void test_SOMA(void){

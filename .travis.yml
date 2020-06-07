@@ -82,4 +82,4 @@ install:
 script:
     - platformio run -e nanoatmega328
     - platformio test
-    - platformio test -e nanoatmega328
+    # - platformio test -e nanoatmega328

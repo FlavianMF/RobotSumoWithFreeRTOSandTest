@@ -80,4 +80,4 @@ install:
     - platformio update
 
 script:
-    - platformio run
+    - platformio run -e nanoatmega328

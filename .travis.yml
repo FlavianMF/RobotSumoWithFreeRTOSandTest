@@ -81,5 +81,5 @@ install:
 
 script:
     - platformio run -e esp32doit-devkit-v1
-    - platformio test -e native
+    # - platformio test -e native
     # - platformio test -e nanoatmega328
